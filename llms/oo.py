@@ -505,6 +505,8 @@ print("\nOutput shape from simplified module:", final_output_simplified.shape)
 print("Attention weights shape from simplified module:",
       final_weights_simplified.shape)
 
+print("next step is part is still underconstruction")
+
 
 # %% [markdown]
 # ## Conclusion
